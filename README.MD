@@ -8,7 +8,7 @@ You can checkout the demo below and see how to use it in the next section.
  # https://maiyaporn.github.io/angular2-wizard-demo/ -->
 
 ## Dependencies
-- Angular2 (tested with 2.3.1)
+- Angular 5
 - Bootstrap 4
 
 ## Installation
@@ -16,7 +16,7 @@ You can checkout the demo below and see how to use it in the next section.
 After installing the above dependencies, install angular2-wizard via:
 
 ```bash
-$ npm install angular2-wizard --save
+$ npm install ng-wizard --save
 ```
 
 ## How to use the component
@@ -80,8 +80,8 @@ Once your library is imported, you can use form-wizard and wizard-step component
 </form-wizard>
 ```
 
-[comment]: <> ## Document
-[comment]: <> https://github.com/maiyaporn/angular2-wizard/wiki
+<!-- ## Document
+https://github.com/maiyaporn/angular2-wizard/wiki -->
 
 ## Development
 
