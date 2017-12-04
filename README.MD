@@ -4,8 +4,8 @@ This is an Angular Form Wizard component. Just like any form wizard. You can def
 
 You can checkout the demo below and see how to use it in the next section.
 
-[comment]: <> ## Demo
-[comment]: <> https://maiyaporn.github.io/angular2-wizard-demo/
+[//]: # ## Demo
+[//]: # https://maiyaporn.github.io/angular2-wizard-demo/
 
 ## Dependencies
 - Angular2 (tested with 2.3.1)
